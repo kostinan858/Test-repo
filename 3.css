@@ -1,0 +1,21 @@
+.red {
+    color: red;
+}
+.green {
+    color: green;
+}
+ul ol li.green {
+    color: green;
+}
+ol ol li.red {
+    color: red;
+}
+ol ol li.blue {
+    color: blue;
+}
+p.italic {
+    font-weight: italic;
+}
+p.bold {
+    font-style: bold;
+}
